@@ -1,0 +1,9 @@
+.container-fluid {
+  transition: margin-left 0.5s;
+}
+
+.sidebar-open {
+  margin-left: 250px; /* Set the width of your sidebar */
+}
+
+/* Add any additional styling for your sidebar here */

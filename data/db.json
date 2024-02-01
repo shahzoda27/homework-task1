@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Iphone 15pro max",
+      "price": " $1199",
+      "code": 123323,
+      "brand": "Apple",
+      "model": "Mobile",
+      "description": "great"
+    }
+  ],
+  "brands": [
+    {
+      "id": "1",
+      "name": "Apple"
+    }
+  ],
+  "models": [
+    {
+      "id": "1",
+      "name": "Laptop"
+    }
+  ]
+}
